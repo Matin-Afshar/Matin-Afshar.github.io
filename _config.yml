@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Mojtaba Barzegari
+title:            Matin Afshar  
 tagline:          'Personal Site'
 description:      ''
-url:              https://mbarzegary.github.io/
+url:              https://Matin-Afshar.github.io/
 
 highlighter:      rouge
 markdown:         kramdown
