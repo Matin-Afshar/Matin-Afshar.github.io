@@ -7,7 +7,7 @@ You can reach out to me at *"moei DOT (at) mp DOT aau DOT dk"*. Please feel free
 
 The complete contact details can be found in these links:
 
-[My page at AAU research portal]([https://vbn.aau.dk/da/persons/moei])
+[My page at AAU research portal](https://vbn.aau.dk/da/persons/moei)
 
 [My Researchgate personnel webpage](https://www.researchgate.net/profile/Mj-Einafshar)
 
