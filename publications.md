@@ -5,7 +5,7 @@ title: Publications
 
 Welcome to my publications page!  
 Here, I maintain an up-to-date list of my research outputs and related works.  
-For a complete, categorized overview, please refer to my [CV](https://matin-afshar.github.io/Matin_Einafshar_CV.pdf)  
+For a complete, categorized overview, please refer to my [CV](https://matin-afshar.github.io/Matin_Einafshar_CV.pdf.pdf)  
 or visit my [Google Scholar](https://scholar.google.com/citations?user=WEDAw6QAAAAJ) profile.
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Matin-Afshar/Matin-Afshar.github.io/master/publications/pubs.bib&noBootstrap=1&jsonp=1&showSearch=1&groupby=year"></script>
