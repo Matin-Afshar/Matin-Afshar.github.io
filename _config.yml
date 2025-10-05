@@ -1,20 +1,25 @@
-# Dependencies
+# Site
+title:            "Matin Afshar"
+tagline:          "Personal Site"
+description:      ""
+url:              "https://matin-afshar.github.io"   # no trailing slash, lowercase host
+baseurl:          ""                                  # keep empty for user.github.io sites
+
+# Markdown & Syntax
 markdown:         kramdown
+highlighter:      rouge
 pygments:         true
 
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Matin Afshar  
-tagline:          'Personal Site'
-description:      ''
-url:              https://Matin-Afshar.github.io/
-
-highlighter:      rouge
-markdown:         kramdown
-
+# Pagination (optional; only if you use posts)
 paginate:         5
+plugins:
+  - jekyll-paginate
 
+# Repository (optional; used by some themes/includes)
 github:
-  repo:           https://github.com/Matin-Afshar/Matin-Afshar.github.io
+  repo:           "https://github.com/Matin-Afshar/Matin-Afshar.github.io"
+
+# ----- Custom
