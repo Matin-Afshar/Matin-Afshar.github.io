@@ -3,7 +3,8 @@ layout: page
 title: Publications
 ---
 
-In this page, I will try to maintain an up-to-date list of my publications in a presentable index. The formal category-based list can be found in my [CV](https://nbviewer.org/github/mbarzegary/MyCV-shortened/blob/main/main.pdf) (or on [Google Scholar](https://scholar.google.com/citations?user=WEDAw6QAAAAJ)).
+In this page, I will try to maintain an up-to-date list of my publications in a presentable index. The formal category-based list can be found in my [CV](https://matin-afshar.github.io/public/cv/Matin_Einafshar_CV.pdf)
+ (or on [Google Scholar](https://scholar.google.com/citations?user=WEDAw6QAAAAJ)).
 
 
 <script src="https://bibbase.org/show?bib=https://bibbase.org/f/oJsJTXuaBDARX3dNS/papers.bib&noBootstrap=1&jsonp=1&showSearch=1"></script> 
