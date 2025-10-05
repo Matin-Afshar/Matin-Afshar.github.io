@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-In this page, I will try to maintain a up-to-date list of my publications in a presentive index. The formal category-based list would be found in my [CV](https://nbviewer.org/github/mbarzegary/MyCV-shortened/blob/main/main.pdf) (or even on [Google Scholar]([https://scholar.google.co.uk/citations?user=UkgS0HMAAAAJ&hl=en)](https://scholar.google.com/citations?hl=en&user=WEDAw6QAAAAJ&view_op=list_works&gmla=AH8HC4xrWlJWMVBuuSm8IaptfU_LV5DXsfXYVspaogPCPaYJX1_c2PP-X_D7bxuq-5lVzruI0kX7pY0IugLYkEpw)).
+In this page, I will try to maintain a up-to-date list of my publications in a presentive index. The formal category-based list would be found in my [CV](https://nbviewer.org/github/mbarzegary/MyCV-shortened/blob/main/main.pdf) (or even on [Google Scholar]([https://scholar.google.com/citations?hl=en&user=WEDAw6QAAAAJ&view_op=list_works&gmla=AH8HC4xrWlJWMVBuuSm8IaptfU_LV5DXsfXYVspaogPCPaYJX1_c2PP-X_D7bxuq-5lVzruI0kX7pY0IugLYkEpw]).
 
 <script src="https://bibbase.org/show?bib=https://bibbase.org/f/oJsJTXuaBDARX3dNS/papers.bib&noBootstrap=1&jsonp=1&showSearch=1"></script> 
 <!-- <iframe src="https://bibbase.org/show?bib=https://bibbase.org/f/oJsJTXuaBDARX3dNS/papers.bib"></iframe> -->
