@@ -232,9 +232,8 @@ a.sidebar-nav-item:focus {
 }
 
 /* Blue */
-.theme-base-0d .sidebar {
-  background-color: #094e6b;
-}
+.theme-base-0d .sidebar { background-color: #0e4d64; }  /* your dark blue */
+
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
   color: #409bc2;
