@@ -62,10 +62,10 @@ html {
   /* background-color: #202020; */
 
   /* dark blue */
- background-color: #0e4d64;  
+ /*background-color: #0e4d64;  */
 
   /* dark orange */
-  /*background-color: #b34700;*/ /* ← ACTIVE */
+  background-color: #b34700; /* ← ACTIVE */
 }
 
 @media (min-width: 48rem) {
