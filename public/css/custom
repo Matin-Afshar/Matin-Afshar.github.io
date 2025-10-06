@@ -1,0 +1,2 @@
+/* force the blue you want; higher specificity + !important */
+body.theme-base-0d .sidebar { background-color: #0e4d64 !important; }
