@@ -1,2 +1,6 @@
-/* force the blue you want; higher specificity + !important */
+/* Force dark orange sidebar */
 body.theme-base-09 .sidebar { background-color: #b34700 !important; }
+
+/* Optional: better link color to match the orange */
+body.theme-base-09 .content a,
+body.theme-base-09 .related-posts li a:hover { color: #d46614; }
