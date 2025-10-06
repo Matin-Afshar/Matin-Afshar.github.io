@@ -57,16 +57,17 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  /*
-  *origin
-  *background-color: #202020;
-  */
-  /*dark blue*/
-  /*background-color: #0e4d64;*/
-  /*dark orange*/
-  background-color: #b34700;
 
+  /* origin */
+  /* background-color: #202020; */
+
+  /* dark blue */
+  background-color: #0e4d64;   /* ← ACTIVE */
+
+  /* dark orange */
+  /* background-color: #b34700; */
 }
+
 @media (min-width: 48rem) {
   .sidebar {
     position: fixed;
